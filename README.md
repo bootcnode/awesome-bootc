@@ -34,18 +34,18 @@ It blends traditional OS with the tooling and workflow of modern containers.
 
 ## Base Images
 
-### Fedora
-- [quay.io/fedora/fedora-bootc:42](https://quay.io/repository/fedora/fedora-bootc) - Official Fedora bootc base image
+* **AlmaLinux**
+  - [AlmaLinux bootc Images](https://almalinux.org/blog/2024-09-02-bootc-almalinux-heliumos/) - AlmaLinux bootc support for x86_64 and ARM64
 
-### CentOS Stream
-- [quay.io/centos-bootc/centos-bootc:stream9](https://quay.io/repository/centos-bootc/centos-bootc) - CentOS Stream 9 bootc image
-- [quay.io/centos-bootc/centos-bootc:stream10](https://quay.io/repository/centos-bootc/centos-bootc) - CentOS Stream 10 bootc image (in development)
+* **CentOS Stream**
+  - [quay.io/centos-bootc/centos-bootc:stream9](https://quay.io/repository/centos-bootc/centos-bootc) - CentOS Stream 9 bootc image
+  - [quay.io/centos-bootc/centos-bootc:stream10](https://quay.io/repository/centos-bootc/centos-bootc) - CentOS Stream 10 bootc image (in development)
 
-### Red Hat Enterprise Linux
-- [registry.redhat.io/rhel9/rhel-bootc:9.4](https://catalog.redhat.com/software/containers/rhel9/rhel-bootc/) - RHEL 9 bootc base image (requires Red Hat subscription)
+* **Fedora**
+  - [quay.io/fedora/fedora-bootc:42](https://quay.io/repository/fedora/fedora-bootc) - Official Fedora bootc base image
 
-### AlmaLinux
-- [AlmaLinux bootc Images](https://almalinux.org/blog/2024-09-02-bootc-almalinux-heliumos/) - AlmaLinux bootc support for x86_64 and ARM64
+* **Red Hat Enterprise Linux**
+  - [registry.redhat.io/rhel9/rhel-bootc:9.4](https://catalog.redhat.com/software/containers/rhel9/rhel-bootc/) - RHEL 9 bootc base image (requires Red Hat subscription)
 
 ## Tools
 
