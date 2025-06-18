@@ -6,6 +6,8 @@
 
 It blends traditional OS with the tooling and workflow of modern containers. 
 
+**PR's ARE WELCOME** - [Submit your project](https://github.com/bootcnode/awesome-bootc/pulls)
+
 ## Contents
 
 - [Official Resources](#official-resources)
