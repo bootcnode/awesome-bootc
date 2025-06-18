@@ -35,7 +35,7 @@ It blends traditional OS with the tooling and workflow of modern containers.
 ## Base Images
 
 * **AlmaLinux**
-  - [AlmaLinux bootc Images](https://almalinux.org/blog/2024-09-02-bootc-almalinux-heliumos/) - AlmaLinux bootc support for x86_64 and ARM64
+  - [AlmaLinux bootc Images](https://quay.io/repository/almalinuxorg/almalinux-bootc?tab=tags) - AlmaLinux bootc image
 
 * **CentOS Stream**
   - [quay.io/centos-bootc/centos-bootc:stream9](https://quay.io/repository/centos-bootc/centos-bootc) - CentOS Stream 9 bootc image
